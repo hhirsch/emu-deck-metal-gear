@@ -6,21 +6,21 @@ Either the instructions are not good or current Emudeck ships with a broken buil
 I even reviewed some pull requests and source code for PCSX2. So after all this time I decided to go another route.
 One thing I did not try was to set the pressure modifier to an analogue input. I've run out of patience to fiddle with the settings though and the solution I have found works.
 ## Emulate Pressure-Sensitive Buttons of The DualShock Controller On The Steam Deck In PCSX2
-So my solution was to just give up with the pressure modifier completely and I decided to use the analogue output of the *right Trigger* of the SteamDeck instead.
+So my solution was to just give up with the pressure modifier completely and I decided to use the analogue output of the **right Trigger** of the SteamDeck instead.
 Following steps are required to get this done. In this example I used Metal Gear Solid 2 - Substance. Steps for Metal Gear Solid 3 - Subsistence should be very similar.
 - Install Emudeck and Steam Rom Manager and get the game to run. There are plenty good instructions of this relatively easy process so that should be fine without explanation.
 - When you added the game to Steam with the Steam Rom Manager and do either of the two:
   - Open the game's controller settings and edit the layout so one of your keys is bound to ESC.
   - Connect a keyboard to the Steam Deck so you can hit the ESC key.
 - Start the game.
-- Bring up the menu by hitting ESC. It should have entries like "Resume Game", "Load State", "Save Screenshot", "Change Disc", "Settings", "Close Game"
-- Navigate to the menu entry "Settings".
-- Push right on the d-pad until you get to "Controller Settings".
-- Navigate to where it says "Controller Port 1".
-- Below it you will find a line where it says "Square".
-- Select this line. A prompt should appear "Set Input Binding".
+- Bring up the menu by hitting ESC. It should have entries like **"Resume Game"**, **"Load State"**, **"Save Screenshot"**, **"Change Disc"**, **"Settings"**, **"Close Game"**
+- Navigate to the menu entry **"Settings"**.
+- Push right on the d-pad until you get to **"Controller Settings"**.
+- Navigate to where it says **"Controller Port 1"**.
+- Below it you will find a line where it says **"Square"**.
+- Select this line. A prompt should appear **"Set Input Binding"**.
 - Push the right trigger on the Steam Deck.
-- If it worked it should say something like "SDL-0 RT" in the line you've just edited.
+- If it worked it should say something like **"SDL-0 RT"** in the line you've just edited.
 - Use the d-pad to go up. Save your profile with the "Save Profile" function.
 - Close the game.
 - Cold start the game. You should now be able to lower your gun again by gently letting go of the right trigger after pulling it.
