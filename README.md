@@ -1,6 +1,6 @@
 # Metal Gear Solid Pressure Sensitive on PCSX2 with Emudeck
 The reason for this document is to offer a solution for running Metal Gear 2 and 3 in PCSX2 with Emudeck & Steam Deck ROM Manager with pressure sensitivety.
-All I was able to find on the topic where forum threads with instructions that did not work, some that did not even make sense and some where the poster just proclaimed "I fixed it" with no information on how they did it.
+All I was able to find on the topic were forum threads with instructions that did not work, some that did not even make sense and some where the poster just proclaimed "I fixed it" with no information on how they did it.
 ## Pressure Modifier Is Not Working In PCSX2
 Either the instructions are not good or current Emudeck ships with a broken build. I've tested for two days now and nothing I have tried made the pressure modifier work.
 I even reviewed some pull requests and source code for PCSX2. So after all this time I decided to go another route.
