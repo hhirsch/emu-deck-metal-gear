@@ -25,6 +25,7 @@ Following steps are required to get this done. In this example I used Metal Gear
 - Close the game.
 - Cold start the game. You should now be able to lower your gun again by gently letting go of the right trigger after pulling it.
 - You can test if it works for example in the "Alternative Missions" in the "Hold Up" missions.
+
 I try to make these steps as easy to understand as possible but please create a ticket if anything is unclear or if you have alternative ways of getting it to work.
 
 If you want to contribute to this page, please create a ticket or pull request [on github](https://github.com/hhirsch/emu-deck-metal-gear).
