@@ -21,7 +21,7 @@ Following steps are required to get this done. In this example I used Metal Gear
 - Select this line. A prompt should appear **"Set Input Binding"**.
 - Push the right trigger on the Steam Deck.
 - If it worked it should say something like **"SDL-0 RT"** in the line you've just edited.
-- Use the d-pad to go up. Save your profile with the "Save Profile" function.
+- Use the d-pad to go up. Save your profile with the **"Save Profile"** function.
 - Close the game.
 - Cold start the game. You should now be able to lower your gun again by gently letting go of the right trigger after pulling it.
 - You can test if it works for example in the "Alternative Missions" in the "Hold Up" missions.
