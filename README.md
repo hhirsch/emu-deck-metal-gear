@@ -7,8 +7,8 @@ I even reviewed some pull requests and source code for PCSX2. So after all this 
 One thing I did not try was to set the pressure modifier to an analogue input. I've run out of patience to fiddle with the settings though and the solution I have found works.
 ## Emulate Pressure-Sensitive Buttons of The DualShock Controller On The Steam Deck In PCSX2
 So my solution was to just give up with the pressure modifier completely and I decided to use the analogue output of the **right Trigger** of the SteamDeck instead.
-Following steps are required to get this done. In this example I used Metal Gear Solid 2 - Substance. Steps for Metal Gear Solid 3 - Subsistence should be very similar.
-- Install Emudeck and Steam Rom Manager and get the game to run. There are plenty good instructions of this relatively easy process so that should be fine without explanation.
+Following steps are required to emulate pressure-sensitive buttons. In this example I used Metal Gear Solid 2 - Substance. Steps for Metal Gear Solid 3 - Subsistence should be very similar.
+- Install Emudeck and Steam Rom Manager and get the game to run. There are plenty of good instructions of this easy process so you should be able to find plenty of resources on that part without issues.
 - When you added the game to Steam with the Steam Rom Manager and do either of the two:
   - Open the game's controller settings and edit the layout so one of your keys is bound to ESC.
   - Connect a keyboard to the Steam Deck so you can hit the ESC key.
