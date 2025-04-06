@@ -4,7 +4,7 @@ All I was able to find on the topic were forum threads with instructions that di
 ## Pressure Modifier Is Not Working In PCSX2
 Either the instructions are not good or current Emudeck ships with a broken build. I've tested for two days now and nothing I have tried made the pressure modifier work.
 I even reviewed some pull requests and source code for PCSX2. So after all this time I decided to go another route.
-One thing I did not try was to set the pressure modifier to an analogue input. I've run out of patience to fiddle with the settings though and the solution I have found works.
+One thing I did not try was to set the pressure modifier to an analogue input. I've run out of patience to fiddle with the settings though and the solution I have found works. But let me know if that is how the modifier works and I will add it to this guide.
 ## Emulate Pressure-Sensitive Buttons of The DualShock Controller On The Steam Deck In PCSX2
 So my solution was to just give up with the pressure modifier completely and I decided to use the analogue output of the **right Trigger** of the SteamDeck instead.
 Following steps are required to emulate pressure-sensitive buttons. In this example I used Metal Gear Solid 2 - Substance. Steps for Metal Gear Solid 3 - Subsistence should be very similar.
